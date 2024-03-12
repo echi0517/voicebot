@@ -1,0 +1,4 @@
+- 음성 비서 프로그램의 UI는 스트림릿을 활용했습니다.
+- STT(Speech-To-Text)sms OpenAI의 Whisper AI를 활용했습니다.
+- 답변은 OpenAI의 GPT 모델을 활용했습니다.
+- TTS(Text-To-Speech)는 구글의 Google Translate TTS를 활용했습니다.
